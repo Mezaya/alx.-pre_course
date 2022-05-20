@@ -1,1 +1,1 @@
-syntax: echo "" > up_to_date
+syntax: echo "git pull" > up_to_date
